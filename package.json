@@ -16,5 +16,6 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5"
   },
-  "repository": "https://github.com/mh35/gulp_scss_project.git"
+  "repository": "https://github.com/mh35/gulp_scss_project.git",
+  "browserslist": ["last 2 versions"]
 }
